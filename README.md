@@ -6,3 +6,4 @@ base suitability score (SS) of destinations for drivers
 and the loop continues. This guarantess none of the drivers will get a duplicated destination
 3. During this loop, a map data structure is filled up with the final assignment (driver-destination) so when the driver is clicked on the list, we can get its corresponding
 destination from the map
+4. Created extend functions to calculate common factos and constant counts 
